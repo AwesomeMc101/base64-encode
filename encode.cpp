@@ -1,4 +1,4 @@
-// encrypt.cpp
+// encode.cpp
 // Written by AwesomeMc101 for LunarGuard LLC / Lunar Guard Technologies
 // Licensed under MIT
 
